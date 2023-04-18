@@ -1,1 +1,1 @@
-# main-pytorch-object_detection
+# pytorch-object_detection
